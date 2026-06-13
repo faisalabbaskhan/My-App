@@ -1,0 +1,6 @@
+{
+  "name": "Gymora",
+  "description": "A modern, complete Kotlin-based local workout tracker featuring custom dashboard visualizers, progress details, and easy exercise logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
